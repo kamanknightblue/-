@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LNP</string>
+    <string name="url_path">http://101.37.118.176/LNP/G</string>
+    <string name="uploading_path">http://101.37.118.176/LNP/U</string>
+<!--    <string name="url_path">http://192.168.0.102:8080/Test/G</string>-->
+<!--    <string name="uploading_path">http://192.168.0.102:8080/Test/U</string>-->
+</resources>

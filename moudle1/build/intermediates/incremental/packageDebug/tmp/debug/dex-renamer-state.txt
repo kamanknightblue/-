@@ -1,0 +1,4 @@
+#Mon Apr 27 20:11:32 CST 2020
+base.0=D\:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

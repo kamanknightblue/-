@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.wei2.view.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_tab_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+        <RadioButton
+            android:id="@+id/rb_location"
+            style="@style/Bottom_Tab_Style"
+            android:text="定位"
+            android:drawableTop="@drawable/selector_tab_location"
+            android:checked="true"
+            />
+        <RadioButton
+            android:id="@+id/rb_navigation"
+            style="@style/Bottom_Tab_Style"
+            android:text="导航"
+            android:drawableTop="@drawable/selector_tab_navigation"
+            />
+        <RadioButton
+            android:id="@+id/rb_protection"
+            style="@style/Bottom_Tab_Style"
+            android:text="监护"
+            android:drawableTop="@drawable/selector_tab_protection"
+            />
+<!--        <RadioButton-->
+<!--            android:id="@+id/rb_my"-->
+<!--            style="@style/Bottom_Tab_Style"-->
+<!--            android:text="我的"-->
+<!--            android:drawableTop="@drawable/selector_tab_my"-->
+<!--            />-->
+
+    </RadioGroup>
+</LinearLayout>

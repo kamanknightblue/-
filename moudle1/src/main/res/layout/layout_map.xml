@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView0"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/btn_locate"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/selector_btn_locate_protection"
+        android:text="定位" />
+
+    <RelativeLayout
+        android:id="@+id/rl_searchcontent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.wei2.view.MySearchView
+            android:id="@+id/sv_default"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/lv_search_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_below="@+id/sv_default"
+            android:divider="#000"
+            android:dividerHeight="2px"
+            android:background="#fff"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+    <Button
+        android:background="@drawable/selector_traffic_layer_toggle"
+        android:id="@+id/btn_traffic_layer"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="left|bottom"
+        android:layout_marginBottom="100dp"
+        android:visibility="gone"
+        />
+</FrameLayout>

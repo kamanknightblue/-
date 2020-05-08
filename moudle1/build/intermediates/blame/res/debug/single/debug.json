@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_navigation.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_tab_navigation.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_my.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_tab_my.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_pop.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\pop.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_demo.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_main_demo.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_setting.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\setting.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menu_arr_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\menu_arr_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_protection.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_tab_protection.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_left_menu.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\left_menu.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_share.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_share.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_pager_my.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\pager_my.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_locate_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\locate_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_bg_newyear.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\splash_bg_newyear.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_dialog_get_info.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\dialog_get_info.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_end.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-xhdpi\\icon_end.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_layout_wx_search.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\layout_wx_search.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dot_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\dot_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_xsearch_loading.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\xsearch_loading.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search_default.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\bg_search_default.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_walk.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\walk.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_xsearch_msg_pull_arrow_down.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_close_protection.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_btn_close_protection.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_news_list_line.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\news_list_line.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_news_tab_item_bg_select.9.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_item_route_result.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\item_route_result.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_govaffairs_press.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\govaffairs_press.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_shape_point_red.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\shape_point_red.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_brilliance105.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\background_brilliance105.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_textsize.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_textsize.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_shape_point_gray.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\shape_point_gray.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_common_listview_headview_red_arrow.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\common_listview_headview_red_arrow.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_guide.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_btn_guide.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_layout_base_seach.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\layout_base_seach.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_favorite.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_favorite.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_opacity68.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\background_opacity68.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_guide_1.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\guide_1.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_menu.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\img_menu.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_pin.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_pin.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\color_txt_guide_selector.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\color\\txt_guide_selector.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_close_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\btn_close_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_opacity45.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\background_opacity45.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_demo.jpg.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\image_demo.jpg"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_press.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\home_press.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_umbrella_protection.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\umbrella_protection.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_navigation_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\tab_navigation_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_locate_protectionn_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_locate_protectionn_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_layout_map.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\layout_map.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_newscenter_press.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\newscenter_press.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_smartservice_press.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\smartservice_press.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_pic_grid_type.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_pic_grid_type.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_red_normal.jpg.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\button_red_normal.jpg"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_people_my.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\people_my.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_pager_protection.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\pager_protection.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_umbrella_protection_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\umbrella_protection_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_news_comment_num.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_news_comment_num.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_item_poisearch_result.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\item_poisearch_result.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_dialog_route_result.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\dialog_route_result.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_dialog_upload_location.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\dialog_upload_location.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_people_my_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\people_my_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_popupmap.9.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\popupmap.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_progress_dialog_bg.9.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\progress_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pic_item_list_default.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\pic_item_list_default.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_default_head.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\default_head.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_guide_3.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\guide_3.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_locate_protection.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_btn_locate_protection.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_news_cate_arr.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\news_cate_arr.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menu_arr_select.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\menu_arr_select.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_150.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_150.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_govaffairs.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\govaffairs.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_icon_geo.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\icon_geo.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_locate_protectionn_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_locate_protectionn_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_red_pressed.jpg.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\button_red_pressed.jpg"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_navigation.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxxhdpi\\navigation.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_traffic_layer_toggle.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_traffic_layer_toggle.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bottom_tab_bg.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\bottom_tab_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_traffic_layer_toggle_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_traffic_layer_toggle_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_close_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\btn_close_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_navigation_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\tab_navigation_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bike.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\bike.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_topic_title_arr.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\topic_title_arr.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_roads.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\roads.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_horse_newyear.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\splash_horse_newyear.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menu_item_bg_select.9.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\menu_item_bg_select.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_news_tab_bg.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\news_tab_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_setting_pager_my.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\setting_pager_my.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dot_focus.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\dot_focus.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_location.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable\\selector_tab_location.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_locate_pressed.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\locate_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_smartservice.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\smartservice.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_locate.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\locate.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_newscenter.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\newscenter.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_pic_list_type.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_pic_list_type.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\car.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_serch.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xhdpi\\serch.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide_main_demo.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\activity_guide_main_demo.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_title_red_bg.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\title_red_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_traffic_layer_toggle_normal.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_traffic_layer_toggle_normal.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_pager.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\pager.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\layout_dialog_navigate_mode.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\layout\\dialog_navigate_mode.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_navigation_blue.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxxhdpi\\navigation_blue.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bus.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\bus.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_mylocation.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\icon_mylocation.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_add.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\btn_add.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_start.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-xhdpi\\icon_start.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_guide_2.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\guide_2.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\drawable-v24\\back.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\比比东和卡卡西\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\LNP2\\moudle1\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyProject\\LNP2\\moudle1\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

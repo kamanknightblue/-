@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved. -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.wei2.bikenavi"
+5    android:versionCode="1"
+6    android:versionName="1.0" > <!-- <application -->
+7    <!-- android:name=".BNaviDemoApplication" -->
+8    <!-- android:allowBackup="true" -->
+9    <!-- android:icon="@mipmap/ic_launcher" -->
+10    <!-- android:label="@string/app_name" -->
+11    <!-- android:supportsRtl="true"> -->
+12    <!-- <meta-data -->
+13    <!-- android:name="com.baidu.lbsapi.API_KEY" -->
+14    <!-- android:value="kGYpIjS2HbBdlavOTcNz7OaG0Zk6IjQS"/> -->
+15    <!-- <activity android:name=".MainActivity"> -->
+16    <!-- </activity> -->
+17    <!-- <activity android:name=".GuideMainActivity"> -->
+18    <!-- <intent-filter> -->
+19    <!-- <action android:name="android.intent.action.MAIN"/> -->
+20    <!-- <category android:name="android.intent.category.LAUNCHER"/> -->
+21    <!-- </intent-filter> -->
+22    <!-- </activity> -->
+23    <!-- </application> -->
+24    <uses-sdk
+25        android:minSdkVersion="14"
+25-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml
+26        android:targetSdkVersion="28" />
+26-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml
+27
+28    <!-- 访问网络，进行地图相关业务数据请求，包括地图数据，路线规划，POI检索等 -->
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:7:5-67
+29-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:7:22-64
+30    <!-- 获取网络状态，根据网络状态切换进行数据请求网络转换 -->
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:9:5-79
+31-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:9:22-76
+32    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+32-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:10:5-76
+32-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:10:22-73
+33    <!-- 获取允许应用程序更改Wi-Fi连接状态的权限，用于室内步行导航wifi定位,如果不需要室内步行导航功能则该权限无需申请 -->
+34    <uses-permission android:name="android.Manifest.permission.CHANGE_WIFI_STATE" />
+34-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:12:5-85
+34-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:12:22-82
+35
+36    <!-- 读取外置存储。如果开发者使用了So动态加载功能并且把SO文件放在了外置存储区域，则需要申请该权限，否则不需要 -->
+37    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+37-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:15:5-80
+37-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:15:22-77
+38    <!-- 写外置存储。如果开发者使用了离线地图，并且数据写在外置存储区域，则需要申请该权限 -->
+39    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+39-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:17:5-81
+39-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:17:22-78
+40
+41    <!-- 以下两个权限用于Demo中定位功能展示，如果开发者实际不需要百度定位功能，可不申请 -->
+42    <!-- 这个权限用于进行网络定位 -->
+43    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+43-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:21:5-81
+43-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:21:22-78
+44    <!-- 这个权限用于访问GPS定位 -->
+45    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+45-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:23:5-79
+45-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:23:22-76
+46
+47    <!-- 用于AR步行导航，需要使用相机权限，如果不需要AR歩导，则不需申请该权限 -->
+48    <uses-permission android:name="android.permission.CAMERA" />
+48-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:26:5-65
+48-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:26:22-62
+49    <!-- 用于步骑行导航Demo中振动效果提示，开发者根据自己业务需求决定是否申请 -->
+50    <uses-permission android:name="android.permission.VIBRATE" />
+50-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:28:5-65
+50-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:28:22-63
+51
+52    <!-- OpenGLES 2.0 -->
+53    <uses-feature
+53-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:31:5-78
+54        android:glEsVersion="0x00020000"
+54-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:31:19-51
+55        android:required="true" />
+55-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:31:52-75
+56
+57    <application
+57-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:33:5-68:19
+58        android:name="com.wei2.bikenavi.BNaviDemoApplication"
+58-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:34:9-62
+59        android:allowBackup="true"
+59-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:35:9-35
+60        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+60-->[androidx.core:core:1.0.0] C:\Users\比比东和卡卡西\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:22:18-86
+61        android:debuggable="true"
+62        android:icon="@drawable/icon_150"
+62-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:37:9-42
+63        android:label="@string/app_name"
+63-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:36:9-41
+64        android:supportsRtl="true"
+64-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:39:9-35
+65        android:usesCleartextTraffic="true" >
+65-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:38:9-44
+66
+67        <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" -->
+68        <!-- android:theme="@android:style/Theme.Light.Panel" -->
+69        <meta-data
+69-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:42:9-44:63
+70            android:name="com.baidu.lbsapi.API_KEY"
+70-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:43:13-52
+71            android:value="xYmZNGf6XBFZnLrvGUAdmt23mPThD87y" />
+71-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:44:13-61
+72
+73        <activity android:name="com.wei2.bikenavi.BNaviGuideActivity" >
+73-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:46:9-48:20
+73-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:46:19-70
+74        </activity>
+75        <activity android:name="com.wei2.activity.GuideActivity" />
+75-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:49:9-68
+75-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:49:19-65
+76        <activity android:name="com.wei2.activity.MainActivity" />
+76-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:50:9-67
+76-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:50:19-64
+77
+78        <!-- com.wei2.bikenavi.BNaviMainActivity -->
+79        <!-- com.wei2.activity.SplashActivity -->
+80        <activity android:name="com.wei2.activity.SplashActivity" >
+80-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:54:9-60:20
+80-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:54:19-66
+81            <intent-filter>
+81-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:55:13-59:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:56:17-68
+82-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:56:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:58:17-76
+84-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:58:27-74
+85            </intent-filter>
+86        </activity>
+87        <activity android:name="com.wei2.bikenavi.WNaviGuideActivity" />
+87-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:62:9-72
+87-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:62:19-70
+88
+89        <service
+89-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:65:9-66:19
+90            android:name="com.baidu.location.f"
+90-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:65:18-53
+91            android:enabled="true"
+91-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:65:54-76
+92            android:process=":remote" >
+92-->D:\MyProject\LNP2\moudle1\src\main\AndroidManifest.xml:65:77-102
+93        </service>
+94    </application>
+95
+96</manifest>

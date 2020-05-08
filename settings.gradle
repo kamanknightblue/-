@@ -1,0 +1,2 @@
+include ':moudle1', ':lib'
+rootProject.name='activity'
